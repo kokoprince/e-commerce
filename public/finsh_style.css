@@ -1,0 +1,26 @@
+
+.header {
+    background: #fff;
+    width: 100%;
+    position: relative;
+}
+.full-container{
+    position: absolute;
+    left: 5%;
+    top: 105px;
+    width: 90%;
+    height: 50%;
+}
+.footer{
+    position: relative;
+    left: 0px;
+    bottom: -60px;
+}
+.box_chating{
+    position: relative;
+    top: 60px;
+    height: 100%;
+    background-color: rgba(235, 235, 235, 0.733);
+}
+
+
